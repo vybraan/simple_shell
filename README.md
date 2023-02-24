@@ -1,4 +1,4 @@
-# simple_shell
+# simple shell
 
 Unix is an operating system created in 1969 by Ken Thompson and Dennis Ritchie at Bell Labs. It was designed to be simple, efficient, and powerful. The shell is a command-line interface that allows users to interact with the operating system by executing commands.
 
